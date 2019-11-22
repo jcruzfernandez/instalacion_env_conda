@@ -19,3 +19,9 @@ Se asume que ya tienes instalado Jupyter en tu maquina ;)
  Installed kernelspec (nombre de tu entorno virtual) in C:\User\user\appdata\roaming\jupyter\kernels\(nombre de tu entorno virtual)
  
  Espero sea de Ayuda
+
+
+*INSTALACION FORZADA DE LIBRERIAS MEDIANTE PIP
+
+
+pip install --upgrade --force-reinstall (libreria)
