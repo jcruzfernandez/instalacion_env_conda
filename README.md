@@ -1,5 +1,5 @@
 # instalacion_env_conda
-Notas que servirán para instalacion de anaconda y entornos virutales en Jupyter 
+Notas que servirán para instalacion de anaconda y entornos virtuales en Jupyter 
 
 Se asume que ya tienes instalado Jupyter en tu maquina ;)
 1. Una vez instalado anaconda a traves de https://www.anaconda.com/distribution/#download-section
