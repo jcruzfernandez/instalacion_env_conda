@@ -18,10 +18,14 @@ Se asume que ya tienes instalado Jupyter en tu maquina ;)
  
  Installed kernelspec (nombre de tu entorno virtual) in C:\User\user\appdata\roaming\jupyter\kernels\(nombre de tu entorno virtual)
  
- Espero sea de Ayuda
-
 
 *INSTALACION FORZADA DE LIBRERIAS MEDIANTE PIP
 
-
 pip install --upgrade --force-reinstall (libreria)
+
+Si se desea ejecutar jupyter en una direccion o ruta ayuda el siguiente codigo:
+
+>>> jupyter notebook --notebook-dir=C:/Usuario/Carpeta/Subcarpeta/NoteBooks/
+*La ruta puede ir sin comillas dobles o simples tal como se observa en el ejemplo de arriba
+
+Espero sea de Ayuda
