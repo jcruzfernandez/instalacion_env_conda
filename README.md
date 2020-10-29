@@ -4,7 +4,14 @@ Notas que servirán para instalacion de anaconda y entornos virtuales en Jupyter
 Se asume que ya tienes instalado Jupyter en tu maquina ;)
 1. Una vez instalado anaconda a traves de https://www.anaconda.com/distribution/#download-section
 
-2. Crear los entornos virtuales que necesites (pronto se actualizará como crear algunos)
+2. Crear los entornos virtuales que necesites:
+    
+    >>> conda create --name nombre_env
+    
+2.1 Crear un entorno virtual con una version de Python especifica:
+
+    >>> conda create --name nombre_env python=3.7
+    >>> conda create -n nombre_env python=3.6
 
 3. En tu entorno virtual se instala ipkernel:
     
