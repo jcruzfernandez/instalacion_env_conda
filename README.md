@@ -36,5 +36,9 @@ Si se desea ejecutar jupyter en una direccion o ruta ayuda el siguiente codigo:
 
 La ruta puede ir sin comillas dobles ("") o simples ('') tal como se observa en el ejemplo de arriba
 
+# Lista de todos los nombres de kernel con el siguiente codigo:
+>>> jupyter kernelspec list
+# Si deseas remover alguno el siguiente codigo servirá:
+>>> jupyter kernelspec remove <nombre_kernel>
 #
 Espero sea de Ayuda
