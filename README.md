@@ -13,9 +13,9 @@ Se asume que ya tienes instalado Jupyter en tu maquina ;)
     >>> conda create --name nombre_env python=3.7
     >>> conda create -n nombre_env python=3.6
 
-3. En tu entorno virtual se instala ipkernel:
+3. En tu entorno virtual se instala ipykernel:
     
-    >>>python -m pip install ipkernel
+    >>>python -m pip install ipykernel
     
 4. Finalmente ingresamos tu entorno virtual mediante el siguiente comando:
 
